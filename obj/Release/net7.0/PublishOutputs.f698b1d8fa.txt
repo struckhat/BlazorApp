@@ -1,0 +1,7 @@
+/Users/alexgeorge/Desktop/standalone/BlazorApp
+/Users/alexgeorge/Desktop/standalone/appsettings.Development.json
+/Users/alexgeorge/Desktop/standalone/appsettings.json
+/Users/alexgeorge/Desktop/standalone/BlazorApp.dll
+/Users/alexgeorge/Desktop/standalone/BlazorApp.deps.json
+/Users/alexgeorge/Desktop/standalone/BlazorApp.runtimeconfig.json
+/Users/alexgeorge/Desktop/standalone/BlazorApp.pdb
